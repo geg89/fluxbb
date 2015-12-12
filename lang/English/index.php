@@ -17,10 +17,10 @@ $lang_index = array(
 'Board stats'	=>	'Board statistics',
 'User info'		=>	'User information',
 
-'No forum list' => 'Unable to fetch forum list',
-'No new topics' => 'Unable to fetch new topics',
-'No category list' => 'Unable to fetch category/forum list',
-'No post count' => 'Unable to fetch post count',
-'No online list' => 'Unable to fetch online list',
+'forum list err' => 'Unable to fetch forum list',
+'new topics err' => 'Unable to fetch new topics',
+'category err' => 'Unable to fetch category/forum list',
+'post count err' => 'Unable to fetch post count',
+'online list err' => 'Unable to fetch online list',
 
 );
