@@ -59,6 +59,22 @@ $lang_search = array(
 'No recent posts'					=>	'No new posts have been made within the last 24 hours.',
 'No unanswered'						=>	'There are no unanswered posts in this forum.',
 'Go to post'						=>	'Go to post',
-'Go to topic'						=>	'Go to topic'
+'Go to topic'						=>	'Go to topic',
 
+//Errors
+'fetch search results err'           => 'Unable to fetch search results',
+'update user err'                    => 'Unable to update user',
+'search for posts err'               => 'Unable to search for posts',
+'fetch users err'                    => 'Unable to fetch users',
+'fetch matched posts list err'       => 'Unable to fetch matched posts list',
+'fetch topic list err'               => 'Unable to fetch topic list',
+'fetch user posts err'               => 'Unable to fetch user posts',
+'fetch user topics err'              => 'Unable to fetch user topics',
+'fetch topic list err'               => 'Unable to fetch topic list',
+'fetch online list err'              => 'Unable to fetch online list',
+'delete search results err'          => 'Unable to delete search results',
+'insert search results err'          => 'Unable to insert search results',
+'fetch search results err'           => 'Unable to fetch search results',
+'fetch username of subscriber err'   => 'Unable to fetch username of subscriber',
+'fetch category list err'            => 'Unable to fetch category list',
 );
