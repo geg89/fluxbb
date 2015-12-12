@@ -15,6 +15,12 @@ $lang_index = array(
 'Online'		=>	'Online:', // As in "Online: User A, User B etc."
 'Board info'	=>	'Board information',
 'Board stats'	=>	'Board statistics',
-'User info'		=>	'User information'
+'User info'		=>	'User information',
+
+'No forum list' => 'Unable to fetch forum list',
+'No new topics' => 'Unable to fetch new topics',
+'No category list' => 'Unable to fetch category/forum list',
+'No post count' => 'Unable to fetch post count',
+'No online list' => 'Unable to fetch online list',
 
 );
